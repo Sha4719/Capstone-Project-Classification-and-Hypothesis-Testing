@@ -62,6 +62,3 @@ As a data scientist, I built and evaluated classification models to predict conv
 - Provided actionable insights to prioritize and engage qualified leads
 
 ---
-
-## Repository Structure
-
